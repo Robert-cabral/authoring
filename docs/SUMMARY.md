@@ -84,6 +84,18 @@
       - [Tap](mobile/exercises/tap.md)
       - [Multiple Choice](mobile/exercises/multiple-choice.md)
       - [Reorder](mobile/exercises/reorder.md)
+- [Spreadsheets](spreadsheets/README.md)
+   - [Technology](spreadsheets/technology.md)
+   - [Course structure](spreadsheets/course-structure.md)
+   - [Courses and chapters](spreadsheets/courses-and-chapters.md):
+   - [Workbooks](spreadsheets/workbooks.md):
+   - [Exercises](spreadsheets/exercises.md):
+      - [General](spreadsheets/exercises/general.md):
+      - [Content guidelines](spreadsheets/exercises/content-guidelines.md):
+      - [Writing SCTs](spreadsheets/exercises/writing-scts.md):
+   - [Limitations](spreadsheets/limitations.md):
+
+
 
 ## Teach Interface
 
